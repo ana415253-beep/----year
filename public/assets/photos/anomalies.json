@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "photos": [
+    {
+      "id": "memory_01",
+      "filename": "album_01_first_meeting.png",
+      "title": "First Meeting",
+      "memory": "We shared cinnamon coffee at the little corner cafe. Neither of us remembers anyone sitting nearby.",
+      "anomalies": [
+        {
+          "id": "memory_01_roni_unfocused",
+          "x": 0.395,
+          "y": 0.525,
+          "radius": 0.165,
+          "description": "Roni looks faintly pale with wide unfocused eyes and a flat expression, while a dim shadow falls behind her shoulder.",
+          "hint": "Compare Roni's face, her wide staring eyes, and the booth backrest behind her shoulder.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_02",
+      "filename": "album_02_first_date.png",
+      "title": "First Date",
+      "memory": "We stayed on the park bench until the water turned silver. The far bank was empty when we left.",
+      "anomalies": [
+        {
+          "id": "memory_02_roni_off",
+          "x": 0.36,
+          "y": 0.635,
+          "radius": 0.26,
+          "description": "Roni looks pale and tired with heavy half-lidded eyes and a joyless frown, while a dark shadow creeps over her green poster and pools around her boots.",
+          "hint": "Compare Roni's pale face, the shadow across her green poster, and the dark stain under her boots.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_03",
+      "filename": "album_03_sunflower_day.png",
+      "title": "Sunflower Day",
+      "memory": "Kallita held one small sunflower for the walk home. All the flowers seemed to watch us pass.",
+      "anomalies": [
+        {
+          "id": "memory_03_tired_shadow",
+          "x": 0.305,
+          "y": 0.64,
+          "radius": 0.27,
+          "description": "Roni looks gaunt and exhausted with dark-ringed eyes and crimson staining on her coat, while the sunflower behind her wilts and a dark shadow gathers around her boots.",
+          "hint": "Look at Roni's pale face, the crimson stain on her coat, the wilted sunflower behind her, and the shadow at her boots.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_04",
+      "filename": "album_04_rainy_afternoon.png",
+      "title": "Rainy Afternoon",
+      "memory": "Kallita held the umbrella while we hurried through the rain. We thought the puddles reflected only the two of us.",
+      "anomalies": [
+        {
+          "id": "memory_04_rain_fatigue",
+          "x": 0.31,
+          "y": 0.62,
+          "radius": 0.15,
+          "description": "Roni looks pale and exhausted beneath a darkened umbrella, with an unnatural shadow pooling around her boots.",
+          "hint": "Compare Roni's face and the puddle directly under her boots.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_05",
+      "filename": "album_05_home_cooking.png",
+      "title": "Home Cooking",
+      "memory": "Our first soup filled the kitchen with warmth. We had set out only the dishes we needed.",
+      "anomalies": [
+        {
+          "id": "memory_05_roni_staining",
+          "x": 0.34,
+          "y": 0.64,
+          "radius": 0.145,
+          "description": "Roni looks hollow-eyed and exhausted, with dark reddish stains on her sleeve and the kitchen floorboards beneath her.",
+          "hint": "Inspect Roni's face, her coat cuff, and the floor tiles near her boots.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_06",
+      "filename": "album_06_city_night.png",
+      "title": "City Night",
+      "memory": "The late shops lit our way home through the city. Kallita said the upstairs windows were all quiet.",
+      "anomalies": [
+        {
+          "id": "memory_06_roni_pale_stain",
+          "x": 0.34,
+          "y": 0.63,
+          "radius": 0.145,
+          "description": "Roni's expression is empty and pale, and dark reddish stains mark the box in her paws and the sidewalk beneath her.",
+          "hint": "Check Roni's face, the pink box she holds, and the pavement below.",
+          "required": true
+        },
+        {
+          "id": "memory_06_dark_window",
+          "x": 0.8,
+          "y": 0.34,
+          "radius": 0.075,
+          "description": "The upper-right building window has gone dark, marked with a faint crimson smear.",
+          "hint": "Look inside the dark frame of the upper-right building window.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_07",
+      "filename": "album_07_birthday.png",
+      "title": "Birthday",
+      "memory": "Roni laughed before the candles were blown out. We cannot remember inviting another guest.",
+      "anomalies": [
+        {
+          "id": "memory_07_roni_tablecloth",
+          "x": 0.36,
+          "y": 0.64,
+          "radius": 0.145,
+          "description": "Roni appears visibly weaker and emotionally absent, with crimson blood stains soaking her sleeve, the birthday tablecloth, and the floor.",
+          "hint": "Examine Roni's face, the tablecloth in front of her, and the floor beneath the table.",
+          "required": true
+        },
+        {
+          "id": "memory_07_dark_window",
+          "x": 0.185,
+          "y": 0.32,
+          "radius": 0.08,
+          "description": "The left window has darkened into a cracked pane holding a distorted shadow.",
+          "hint": "Look closely at the darkened window behind the left side of the table.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_08",
+      "filename": "album_08_old_house.png",
+      "title": "The Old House",
+      "memory": "We found the old house just as the afternoon faded. The key was cold and the rooms were supposed to be empty.",
+      "anomalies": [
+        {
+          "id": "memory_08_roni_weakened",
+          "x": 0.41,
+          "y": 0.64,
+          "radius": 0.145,
+          "description": "Roni is visibly hunched and pale with frightened eyes, while blood stains spread down her coat and onto the step.",
+          "hint": "Look closely at Roni's slumped head, coat front, and feet.",
+          "required": true
+        },
+        {
+          "id": "memory_08_window_deterioration",
+          "x": 0.8,
+          "y": 0.41,
+          "radius": 0.085,
+          "description": "The right window has deteriorated into dark glass marked with crimson smears and a faint reflection.",
+          "hint": "Inspect the window on the right side of the house.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_09",
+      "filename": "album_09_picnic.png",
+      "title": "Picnic",
+      "memory": "We spread the checked blanket beneath the old tree. The sunlight felt warm even where the shadows disagreed.",
+      "anomalies": [
+        {
+          "id": "memory_09_roni_gaunt",
+          "x": 0.34,
+          "y": 0.56,
+          "radius": 0.30,
+          "description": "Roni is heavily slumped and gaunt with a distorted, frightened face, while dark blood stains her coat, the blanket, and the withered grass.",
+          "hint": "Look closely at Roni's distorted face, slumped posture, and the blanket beneath her.",
+          "required": true
+        },
+        {
+          "id": "memory_09_corrupt_shadow",
+          "x": 0.70,
+          "y": 0.79,
+          "radius": 0.145,
+          "description": "A dark unnatural shadow stretches past the picnic blanket toward crimson-stained grass.",
+          "hint": "Inspect the shadow stretching off the right edge of the picnic blanket.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_10",
+      "filename": "album_10_anniversary.png",
+      "title": "Anniversary",
+      "memory": "We brought home flowers to mark another year together. The mirror kept more of the evening than we remember.",
+      "anomalies": [
+        {
+          "id": "memory_10_roni_distorted",
+          "x": 0.34,
+          "y": 0.65,
+          "radius": 0.145,
+          "description": "Roni is hunched and almost unrecognizable with sunken eyes and distorted features, soaked in dark crimson stains.",
+          "hint": "Examine Roni's collapsed face, coat, and the floorboards beneath her.",
+          "required": true
+        },
+        {
+          "id": "memory_10_mirror_clue",
+          "x": 0.77,
+          "y": 0.43,
+          "radius": 0.095,
+          "description": "Inside the cracked oval mirror, Roni's reflection has vanished into a dark crimson smear beside Kallita.",
+          "hint": "Look inside the cracked oval mirror on the right.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_11",
+      "filename": "album_11_family_portrait.png",
+      "title": "Family Portrait",
+      "memory": "We dressed carefully for a portrait of our little family. Nobody else was meant to be in the room.",
+      "anomalies": [
+        {
+          "id": "memory_11_roni_barely_standing",
+          "x": 0.36,
+          "y": 0.65,
+          "radius": 0.15,
+          "description": "Roni can barely stay upright, her head slumped low with lifeless sunken eyes and heavy crimson staining across her coat, sofa, and floor.",
+          "hint": "Look at Roni's slumped head, coat, the sofa beside her, and the floor.",
+          "required": true
+        },
+        {
+          "id": "memory_11_portrait_scratched",
+          "x": 0.825,
+          "y": 0.4,
+          "radius": 0.08,
+          "description": "Inside the small framed portrait on the right, Roni's figure has vanished beneath dark crimson scratches.",
+          "hint": "Inspect the small framed portrait on the right wall.",
+          "required": true
+        }
+      ]
+    },
+    {
+      "id": "memory_12",
+      "filename": "album_12_the_visitor.png",
+      "title": "The Revelation",
+      "memory": "The photographs were never showing someone else. They were showing what was happening to Roni all along.",
+      "anomalies": [
+        {
+          "id": "memory_12_roni_lifeless",
+          "x": 0.34,
+          "y": 0.65,
+          "radius": 0.15,
+          "description": "Roni is slumped almost lifeless at the table with sunken eyes and heavy bloodstains across her coat, the tablecloth, and the floorboards.",
+          "hint": "Look closely at Roni's collapsed posture, pale face, and the blood soaking the tablecloth and floor.",
+          "required": true
+        },
+        {
+          "id": "memory_12_bedroom_revelation",
+          "x": 0.8,
+          "y": 0.5,
+          "radius": 0.125,
+          "description": "Through the open doorway lies a dim room—and a motionless figure sitting in a chair, slumped forward with her head resting on a bloodstained desk.",
+          "hint": "Look closely inside the dark open doorway on the right.",
+          "required": true
+        }
+      ]
+    }
+  ]
+}

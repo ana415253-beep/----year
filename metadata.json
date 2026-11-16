@@ -1,0 +1,6 @@
+{
+  "name": "The Last Anniversary",
+  "description": "A playable 2D pixel-art narrative mystery. Explore, restore twelve memories, and uncover an unexplained visitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
